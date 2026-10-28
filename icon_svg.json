@@ -1,0 +1,66 @@
+[
+    {
+        "svgId": 1,
+        "svgName": {
+            "zh": "通馬桶",
+            "en": "toilet"
+        },
+        "svgUrl": "/images/icon_toilet.svg"
+    },
+    {
+        "svgId": 2,
+        "svgName": {
+            "zh": "爐具清洗",
+            "en": "stove"
+        },
+        "svgUrl": "/images/icon_stove.svg"
+    },
+    {
+        "svgId": 3,
+        "svgName": {
+            "zh": "排水溝清洗",
+            "en": "drainage ditch"
+        },
+        "svgUrl": "/images/icon_drainage_ditch.svg"
+    },
+    {
+        "svgId": 4,
+        "svgName": {
+            "zh": "冷氣機清洗",
+            "en": "air conditioner"
+        },
+        "svgUrl": "/images/icon_air_conditioner.svg"
+    },
+    {
+        "svgId": 5,
+        "svgName": {
+            "zh": "衛浴修繕",
+            "en": "bathroom"
+        },
+        "svgUrl": "/images/icon_bathroom.svg"
+    },
+    {
+        "svgId": 6,
+        "svgName": {
+            "zh": "通水管",
+            "en": "water pipe"
+        },
+        "svgUrl": "/images/icon_water_pipe.svg"
+    },
+    {
+        "svgId": 7,
+        "svgName": {
+            "zh": "居家清潔",
+            "en": "rubbish"
+        },
+        "svgUrl": "/images/icon_rubbish.svg"
+    },
+    {
+        "svgId": 8,
+        "svgName": {
+            "zh": "油煙機清洗",
+            "en": "range hood"
+        },
+        "svgUrl": "/images/icon_range_hood.svg"
+    }
+]
